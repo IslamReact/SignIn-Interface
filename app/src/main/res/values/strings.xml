@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SignIinIslam</string>
+    <string name="secondaryHeader">Informacion Basica</string>
+    <string name="thirdHeader">Extras</string>
+    <string name="PersonalName">App By Islam</string>
+    <string name="labelNameField">Introduce tu nombre</string>
+    <string name="labelSurnameField">Introduce tus apellidos</string>
+    <string name="labelMailField">Introduce tu email</string>
+    <string name="labelPhoneField">Introduce tu telefono</string>
+    <string name="exampleMailField">ejemplo@ejemplo.com</string>
+    <string name="edit">Editar</string>
+    <string name="lion">Leon</string>
+    <string name="tiger">Tigre</string>
+    <string name="puma">Puma</string>
+    <string name="cat">Gato</string>
+    <string name="lepard">Leopardo</string>
+    <string name="gepard">Gepardo</string>
+
+</resources>
